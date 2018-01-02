@@ -1,0 +1,19 @@
+{
+  "name": "common-functions",
+  "version": "1.0.0",
+  "description": "Commonly used functions when in development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penggelies07/common-functions.git"
+  },
+  "author": "penggelies07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penggelies07/common-functions/issues"
+  },
+  "homepage": "https://github.com/penggelies07/common-functions#readme"
+}
