@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/penggelies07/common-functions/issues"
   },
-  "homepage": "https://github.com/penggelies07/common-functions#readme"
+  "homepage": "https://github.com/penggelies07/common-functions#readme",
+  "devDependencies": {
+    "tslint": "^5.8.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "typescript": "^2.6.1"
+  }
 }
