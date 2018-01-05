@@ -5,4 +5,4 @@ Commonly used functions when in development
 
 - [ ] chunk
 - [ ] compact
-- [ ] Divider
+- [ ] difference
