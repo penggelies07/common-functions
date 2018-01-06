@@ -4,7 +4,7 @@
  * @return [[][]] [新二维数组]
  */
 function chunk (array: any[], size: number) {
-  const length = array === null ? 0 : array.length
+  const length = array.length
   size = Math.max(size, 0)
 
   if (!length || !size) {
